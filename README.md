@@ -1,6 +1,8 @@
-## Your Name
+## Henry Gordon
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+An enthusiastic dooer with a passion for building things. Aged 14 I attempted to attach a strimmer engine to my bicycle... with disastrous consequences, my enthusiasm has been known to exceed my abilities. I was naturally drawn to Engineering but since graduating have been specialising in software development, building a number of full stack web apps. I am drawn to the construction sandbox that programming offers, leaving behind the need for laboratories and expensive equipment. My aim is to get involved in the tech industry and further my software development abilities.
+
+
 
 ## Skills
 
