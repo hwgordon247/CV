@@ -1,6 +1,6 @@
 ## Henry Gordon
 
-An enthusiastic dooer with a passion for building things. Aged 14 I attempted to attach a strimmer engine to my bicycle... with disastrous consequences, my enthusiasm has been known to exceed my abilities. I was naturally drawn to Engineering but since graduating have been specialising in software development, building a number of full stack web apps. I am drawn to the construction sandbox that programming offers, leaving behind the need for laboratories and expensive equipment. My aim is to get involved in the tech industry and further my software development abilities.
+An enthusiastic doer with a passion for building things. Aged 14 I attempted to attach a strimmer engine to my bicycle... with disastrous consequences, my enthusiasm has been known to exceed my abilities. I was naturally drawn to Engineering but since graduating have been specialising in software development, building a number of full stack web apps. I am drawn to the construction sandbox that programming offers, leaving behind the need for laboratories and expensive equipment. My aim is to get involved in the tech industry and further my software development abilities.
 
 
 
@@ -25,20 +25,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy *January - April 2016*
 
-- Curiosity and hungry passion for code
+- Passionate about clean, test driven code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Software Craftsmanship (OOP, TDD, MVC, agile)
+- Ruby, Rails, Javascript, Angular.JS, HTML, CSS
+- Version control using Github
 
-#### Your University / College (start_date to end_date)
+#### Durham University  *2011 - 2015*
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Mechanical Engineering (MEng)
+- 2:1 Honours
+
+#### Sherborne School *2005 - 2010*
+
+- ** A-Levels:**
+- Maths A, Physics A, Chemistry A
+- **GCSE's:**
+- 9x A*s, 2x As
 
 #### Any other qualifications
 
