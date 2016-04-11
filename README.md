@@ -6,7 +6,7 @@ An enthusiastic doer with a passion for building things. Aged 14 I attempted to 
 
 ## Skills
 
-#### This Skill
+#### Software Craftsmanship
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -14,14 +14,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Problem Solving
+
+#### Teamwork
+
+
 
 ## Education
 
@@ -45,8 +44,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - **GCSE's:**
 - 9x A*s, 2x As
 
-#### Any other qualifications
-
 ## Experience
 
 **Opus Sudio** July - December 2015  
@@ -65,3 +62,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Builder*  
 **Grape Picking - Lyon, France** September 2010  
 *Farm Hand*  
+
+## Achievements
+
+- 1st place in Durham University Engineering Design Project.
+- Social secretary for University Gymnastics Squad.
+- Captain of the University College darts team.
+- Head of house at Sherborne School.
+- Silver Duke of Edinburgh.
+
+## Interests
+
+- Sports:Avid cyclist both on and off road. Competed in inter school cycling velodrome competition. Keen windsurfer and sailor and compete on a yearly basis at Falmouth Race Week. Play hockey and a member of the gymnastics squad for my college at university.
+- Travelling: Backpacked through India, Asia and Australasia.
+- Charity Work: Organised and cycled the final 500km of the Camino de
+Santiago pilgrimage, raising £600 for the ‘Reach Rwanda’ charity in 2009. Organised and cycled 2250 km from Budapest to Amsterdam via Zurich in a month. £500 was raised for ‘Cancer Research’ during this expedition in 2013.
