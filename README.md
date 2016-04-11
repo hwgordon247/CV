@@ -40,7 +40,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Sherborne School *2005 - 2010*
 
-- ** A-Levels:**
+- **A-Levels:**
 - Maths A, Physics A, Chemistry A
 - **GCSE's:**
 - 9x A*s, 2x As
