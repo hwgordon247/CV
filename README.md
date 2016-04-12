@@ -15,7 +15,7 @@ Educated to the level of junior developer, with a passion for clean refactored c
 
 #### Problem Solving
 
-My Engineering career demonstrates my problem solving ability by encountering any given obstacle and efficiently finding a viable solution.
+My Engineering career demonstrates my problem solving ability - encountering any given obstacle and efficiently finding a viable solution.
 
 - Essar Oil
 - Primary objective was to redesign the rubber lined pipework in the demineralized water plant.
@@ -72,7 +72,7 @@ Both of my long distance cycle tours emphasis my leadership characteristics.
 
 ## Achievements
 
-- 1st place in Durham University Engineering Design Project.
+- 1st grade in Mechanical Engineering dissertation - "Coriolis Effect on Shallow Water Flows".
 - Social secretary for University Gymnastics Squad.
 - Captain of the University College darts team.
 - Head of house at Sherborne School.
