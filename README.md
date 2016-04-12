@@ -79,7 +79,7 @@ Both of my long distance cycle tours emphasis my leadership characteristics.
 
 ## Interests
 
-- Sports:Avid cyclist both on and off road. Competed in inter school cycling velodrome competition. Keen windsurfer and sailor and compete on a yearly basis at Falmouth Race Week. Play hockey and a member of the gymnastics squad for my college at university.
+- Sports: Avid cyclist both on and off road. Competed in inter school cycling velodrome competition. Keen windsurfer and sailor and compete on a yearly basis at Falmouth Race Week. Play hockey and a member of the gymnastics squad for my college at university.
 - Travelling: Backpacked through India, Asia and Australasia.
 - Charity Work: Organised and cycled the final 500km of the Camino de
 Santiago pilgrimage, raising £600 for the ‘Reach Rwanda’ charity in 2009. Organised and cycled 2250 km from Budapest to Amsterdam via Zurich in a month. £500 was raised for ‘Cancer Research’ during this expedition in 2013.
