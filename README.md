@@ -1,4 +1,4 @@
-## Henry Gordon
+## Henry Gordon (IN PROGRESS)
 
 An enthusiastic doer with a passion for building things. Aged 14 I attempted to attach a strimmer engine to my bicycle... with disastrous consequences, my enthusiasm has been known to exceed my abilities. I was naturally drawn to Engineering but since graduating have been specialising in software development, building a number of full stack web apps. I am drawn to the construction sandbox that programming offers, leaving behind the need for laboratories and expensive equipment. My aim is to get involved in the tech industry and further my software development abilities.
 
