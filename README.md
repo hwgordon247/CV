@@ -8,27 +8,42 @@ An enthusiastic doer with a passion for building things. Aged 14 I attempted to 
 
 #### Software Craftsmanship
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Educated to the level of junior developer, with a passion for clean refactored code that is fully test driven.
 
-- Experience
-- Achievements
-- Evidence
-
-
+- Makers Academy software course.
+- OOP, TDD, MVC, agile
 
 #### Problem Solving
 
+My Engineering career demonstrates my problem solving ability by encountering any given obstacle and efficiently finding a viable solution.
+
+- Essar Oil
+- Primary objective was to redesign the rubber lined pipework in the demineralized water plant.
+- Successful completion of the task required in depth knowledge of the workings of the refinery, most of which could only be acquired through communication with others.
+
 #### Teamwork
 
+Through numerous successful group projects my teamwork skills have been enhanced.
+
+- Durham University
+- Boat designed for the Mekong Delta
+- 6 person team
+- Placed 1st within Engineering course
+
+#### Leadership
+
+Both of my long distance cycle tours emphasis my leadership characteristics.
+
+- Organising both tours and persuading people to partake.
+- Maintaining team moral.
+- Route management and decision making whilst on the road.
 
 
 ## Education
 
 #### Makers Academy *January - April 2016*
 
-- Passionate about clean, test driven code
-- Independent learner and problem-solver
-- Software Craftsmanship (OOP, TDD, MVC, agile)
+- Software development course.
 - Ruby, Rails, Javascript, Angular.JS, HTML, CSS
 - Version control using Github
 
@@ -50,18 +65,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Casting Technician*  
 **Essar Oil Stanlow Refinery** July - August 2014   
 *Mechanical Engineering Summer Internship*  
-**Plume of Feathers Pub** September 2013 - 2015  
-*Bartender and Table Waiter*  
-**JG Marquees** July - August 2013   
-*Marquee Erector*  
-**Club Vass - Greece** July - August 2012 & July - August 2011   
+**Club Vass - Greece** July - August 2012 & July - August 2011
 *Windsurfing Instructor*  
 **Sam's Project - Sri Lanka** March 2011   
-*Volunteer*  
-**WH Johnson Building Services** July - December 2010   
-*Builder*  
-**Grape Picking - Lyon, France** September 2010  
-*Farm Hand*  
+*Volunteer*   
 
 ## Achievements
 
@@ -69,7 +76,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Social secretary for University Gymnastics Squad.
 - Captain of the University College darts team.
 - Head of house at Sherborne School.
-- Silver Duke of Edinburgh.
 
 ## Interests
 
