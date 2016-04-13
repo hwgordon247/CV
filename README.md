@@ -18,11 +18,11 @@ Educated to the level of junior developer, with a passion for clean refactored c
 
 - Essar Oil - Primary objective was to redesign the rubber lined pipework in the demineralized water plant. Successful completion of the task required in depth knowledge of the workings of the refinery, most of which could only be acquired through communication with others.
 
-- Durham University - I undertook numerous engineering projects that had to be solved efficiently and innovatively. These ranged from partnering with Black & Decker to develop a "streak free" window cleaner, to designing an affordable boat suitable for use in the Mekong Delta - a project that my team and I achieved first place in an inter course competition.
+- Durham University - I undertook numerous engineering projects that had to be solved efficiently and innovatively. These ranged from partnering with Black & Decker to develop a "streak free" window cleaner, to designing an affordable boat suitable for use in the Mekong Delta - a project in which my team and I achieved first place in an inter course competition.
 
 #### Teamwork
 
-An effective team player has the ability to inspire and encourage other members to perform at their full potential. I have honed my teamwork skills through numerous successful group projects both at University and Makers Academy. ("insert something funny")
+An effective team player has the ability to inspire and encourage other members to perform to their full potential. I have honed my teamwork skills through numerous successful group projects both at University and Makers Academy. ("insert something funny")
 
 #### Leadership
 
