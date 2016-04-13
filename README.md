@@ -1,4 +1,4 @@
-## Henry Gordon (IN PROGRESS)
+## Henry Gordon 
 
 I have a very strong interest in pursuing a career in software development and believe I have the necessary credentials to succeed in this field…intelligent, resourceful, hardworking, engaging with an impeccable academic record, I have much to offer.
 Having graduated from Durham University with a 2:1 honours Mechanical Engineering Degree (MEng), I very quickly realised that Software Development was my preferred field and successfully completed the 12 week long course at Makers Academy to become a developer.
@@ -28,9 +28,10 @@ An effective team player has the ability to inspire and encourage other members 
 
 I have demonstrated my exceptional leadership skills in a range of different scenarios:
 
-- Bicycle touring - Organising both tours, persuading people to partake, maintaining team moral, route management and decision making whilst on the road.
+- Bicycle touring - Organisation of two bicycle tours, which included persuading people to partake, maintaining team moral, route management and decision making whilst on the road.
 
-- Team building - After a hard days work on a given project I am still leading my teammates to the pub.
+- Team building - After a hard days work on a given project, to maintain morale and ensure a happy, cohesive team I am always ready to go the extra mile and lead members of the team to the pub!
+
 
 ## Education
 
@@ -72,7 +73,7 @@ I have demonstrated my exceptional leadership skills in a range of different sce
 
 ## Interests
 
-- Sports: Avid cyclist both on and off road. Competed in inter school cycling velodrome competition. Keen windsurfer and sailor and compete on a yearly basis at Falmouth Race Week. Play hockey and a member of the gymnastics squad for my college at university.
+- Sports: Avid cyclist both on and off road. Competed in inter school cycling velodrome competition. Keen windsurfer and sailor and compete on a yearly basis at Falmouth Race Week. Hockey and a member of the gymnastics squad for my college at university.
 - Travelling: Backpacked through India, Asia and Australasia.
 - Charity Work: Organised and cycled the final 500km of the Camino de
 Santiago pilgrimage, raising £600 for the ‘Reach Rwanda’ charity in 2009. Organised and cycled 2250 km from Budapest to Amsterdam via Zurich in a month. £500 was raised for ‘Cancer Research’ during this expedition in 2013.
