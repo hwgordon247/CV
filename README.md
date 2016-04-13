@@ -2,8 +2,6 @@
 
 An enthusiastic doer with a passion for building things. Aged 14 I attempted to attach a strimmer engine to my bicycle... with disastrous consequences, my enthusiasm has been known to exceed my abilities. I was naturally drawn to Engineering but since graduating have been specialising in software development, building a number of full stack web apps. I am drawn to the construction sandbox that programming offers, leaving behind the need for laboratories and expensive equipment. My aim is to get involved in the tech industry and further my software development abilities.
 
-
-
 ## Skills
 
 #### Software Craftsmanship
@@ -15,29 +13,21 @@ Educated to the level of junior developer, with a passion for clean refactored c
 
 #### Problem Solving
 
-My Engineering career demonstrates my problem solving ability - encountering any given obstacle and efficiently finding a viable solution.
+- Essar Oil - Primary objective was to redesign the rubber lined pipework in the demineralized water plant. Successful completion of the task required in depth knowledge of the workings of the refinery, most of which could only be acquired through communication with others.
 
-- Essar Oil
-- Primary objective was to redesign the rubber lined pipework in the demineralized water plant.
-- Successful completion of the task required in depth knowledge of the workings of the refinery, most of which could only be acquired through communication with others.
+- Durham University - I undertook numerous engineering projects that had to be solved efficiently and innovatively. These ranged form partnering with Black & Decker to develop a "streak free" window cleaner, to designing a affordable boat suitable for use in the Mekong Delta - a project that my team and I placed first in for an inter course competition.
 
 #### Teamwork
 
-Through numerous successful group projects my teamwork skills have been enhanced.
-
-- Durham University
-- Boat designed for the Mekong Delta
-- 6 person team
-- Placed 1st within Engineering course
+An effective team player has the ability to inspire and encourage other members to perform at their full potential. I have honed my teamwork skills through numerous successful group projects both at University and Makers Academy. ("insert something funny")
 
 #### Leadership
 
-Both of my long distance cycle tours emphasis my leadership characteristics.
+I have demonstrated my exceptional leadership skills in a range of different scenarios:
 
-- Organising both tours and persuading people to partake.
-- Maintaining team moral.
-- Route management and decision making whilst on the road.
+- Bicycle touring - Organising both tours, persuading people to partake, maintaining team moral, route management and decision making whilst on the road.
 
+- Team building - After a hard days work on a given project I am still leading my teammates to the pub.
 
 ## Education
 
@@ -61,11 +51,11 @@ Both of my long distance cycle tours emphasis my leadership characteristics.
 
 ## Experience
 
-**Opus Sudio** July - December 2015  
+**Opus Studio** July - December 2015  
 *Casting Technician*  
 **Essar Oil Stanlow Refinery** July - August 2014   
 *Mechanical Engineering Summer Internship*  
-**Club Vass - Greece** July - August 2012 & July - August 2011
+**Club Vass - Greece** July - August 2012 & July - August 2011 
 *Windsurfing Instructor*  
 **Sam's Project - Sri Lanka** March 2011   
 *Volunteer*   
