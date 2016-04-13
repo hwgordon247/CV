@@ -1,4 +1,4 @@
-## Henry Gordon 
+## Henry Gordon
 
 I have a very strong interest in pursuing a career in software development and believe I have the necessary credentials to succeed in this field…intelligent, resourceful, hardworking, engaging with an impeccable academic record, I have much to offer.
 Having graduated from Durham University with a 2:1 honours Mechanical Engineering Degree (MEng), I very quickly realised that Software Development was my preferred field and successfully completed the 12 week long course at Makers Academy to become a developer.
