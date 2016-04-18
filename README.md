@@ -22,7 +22,7 @@ Educated to the level of junior developer, with a passion for clean refactored c
 
 #### Teamwork
 
-An effective team player has the ability to inspire and encourage other members to perform to their full potential. I have honed my teamwork skills through numerous successful group projects both at University and Makers Academy. ("insert something funny")
+An effective team player has the ability to inspire and encourage other members to perform to their full potential. I have honed my teamwork skills through numerous successful group projects both at University and Makers Academy.
 
 #### Leadership
 
