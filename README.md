@@ -1,6 +1,6 @@
 ## Henry Gordon
 
-I have a very strong interest in pursuing a career in software development and believe I have the necessary credentials to succeed in this field…intelligent, resourceful, hardworking, engaging with an impeccable academic record, I have much to offer.
+I have a very strong interest in pursuing a career in software development and believe I have the necessary credentials to succeed in this field…intelligent, resourceful, hardworking and engaging, with an impeccable academic record. I have much to offer.
 Having graduated from Durham University with a 2:1 honours Mechanical Engineering Degree (MEng), I very quickly realised that Software Development was my preferred field and successfully completed the 12 week long course at Makers Academy to become a developer.
 
 My aim now? To consolidate my specialism by adding value to an organisation, in an industry that I find both exciting and challenging.
@@ -18,7 +18,7 @@ Educated to the level of junior developer, with a passion for clean refactored c
 
 - Essar Oil - Primary objective was to redesign the rubber lined pipework in the demineralized water plant. Successful completion of the task required in depth knowledge of the workings of the refinery, most of which could only be acquired through communication with others.
 
-- Durham University - I undertook numerous engineering projects that had to be solved efficiently and innovatively. These ranged from partnering with Black & Decker to develop a "streak free" window cleaner, to designing an affordable boat suitable for use in the Mekong Delta - a project in which my team and I achieved first place in an inter course competition.
+- Durham University - I undertook numerous engineering projects that had to be solved efficiently and innovatively. These ranged from partnering with Black & Decker to develop a "streak free" window cleaner, to designing an affordable boat suitable for use in the Mekong Delta - a project in which my team and I achieved first place in an intermural competition.
 
 #### Teamwork
 
@@ -62,7 +62,7 @@ I have demonstrated my exceptional leadership skills in a range of different sce
 **Club Vass - Greece** July - August 2012 & July - August 2011
 *Windsurfing Instructor*  
 **Sam's Project - Sri Lanka** March 2011   
-*Volunteer*   
+*Charity Worker*   
 
 ## Achievements
 
